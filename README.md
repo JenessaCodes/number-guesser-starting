@@ -1,7 +1,7 @@
-# number-guesser-starting
+# Number Guesser Starting
 
->Game to see if the number the user guesses is closer to the target number than the computer's guess. 
-> ~ Nani Peters
+>Game to see if the number the user guesses is closer to the target number than the computer's guess.  
+>Visit the live site [_here_](https://nanipeters.github.io/number-guesser-starting/).
 
 ## Table of contents
 [General info](#General-info)
