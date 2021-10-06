@@ -46,4 +46,4 @@ The following files were developed by Codecademy
 
 ### Contact
 
-Created by [@NaniPeters](https://www.github.com/NaniPeters) - feel free to contact me!
+Created by [@JenessaCodes](https://www.github.com/JenessaCodes) - feel free to contact me!
